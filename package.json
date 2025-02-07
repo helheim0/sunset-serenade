@@ -1,0 +1,47 @@
+{
+  "name": "sunset-serenade",
+  "displayName": "Sunset Serenade",
+  "description": "A pleasant light theme with warm colours, that is good and relaxing to look at, combining the vibrant colours of the sunset, transitioning into a cold, starry night.",
+  "version": "1.1.0",
+  "publisher": "kartoffelente",
+  "repository": {
+    "type": "marketplace",
+    "url": "https://marketplace.visualstudio.com/manage/publishers/kartoffelente/extensions/sunset-serenade/hub?_a=acquisition"
+  },
+  "keywords": [
+    "theme",
+    "light",
+    "color",
+    "colour",
+    "sunset",
+    "serenade",
+    "warm",
+    "cold",
+    "vibrant",
+    "relaxing",
+    "pleasant",
+    "star",
+    "night"
+  ],
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "icon": "images/icon.jpeg",
+  "galleryBanner": {
+    "color": "#e0b3ff",
+    "theme": "light"
+  },  
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kartoffelente",
+        "uiTheme": "vs",
+        "path": "./themes/kartoffelente-color-theme.json"
+      }
+    ]
+  },
+  "pricing": "Free"
+}
