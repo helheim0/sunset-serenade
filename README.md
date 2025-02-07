@@ -12,6 +12,8 @@ _I could not figure out how to change the color of the icons in the side bar on 
 Simply click on the install button and all should be set.
 The extension is available for free on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/manage/publishers/kartoffelente/extensions/sunset-serenade/hub?_a=acquisition).
 
+[Git repo](https://github.com/helheim0/sunset-serenade)
+You can report any issues, suggestions [here](https://github.com/helheim0/sunset-serenade/issues).
 ## Example screenshots
 ![Example of basic sytntax colors from a file](image.png)
 
