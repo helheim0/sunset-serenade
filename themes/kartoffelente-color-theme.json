@@ -1977,7 +1977,7 @@
 	  "badge.background": "#6a89cc",
 	  "badge.foreground": "#fffdf3",
 	  "terminal.foreground": "#333333",
-	  "terminal.selectionBackground": "#ede7db4e",
+	  "terminal.selectionBackground": "#706fd342",
 	  "terminalCursor.background": "#6a89cc",
 	  "terminalCursor.foreground": "#ffffff",
 	  "terminal.border": "#e0b3ff",
